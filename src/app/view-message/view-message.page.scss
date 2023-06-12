@@ -9,7 +9,11 @@ ion-label {
 }
 
 ion-item h2 {
-  font-weight: 600;
+  font-weight: 400;
+}
+
+ion-item h3 {
+  font-weight: 5000;
 }
 
 ion-item .date {
@@ -28,6 +32,12 @@ ion-item ion-note {
   margin-right: 12px;
   font-weight: normal;
 }
+
+ion-item .suggestbutton {
+  background-color: orangered;
+  color: white;
+}
+
 
 h1 {
   margin: 0;
